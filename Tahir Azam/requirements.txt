@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+pytorch
+tensorflow 
+matplotlib
+seaborn
+kagglehubstreamlit
+tensorflow
+numpy
+Pillow
